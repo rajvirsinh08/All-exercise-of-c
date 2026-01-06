@@ -1,6 +1,6 @@
 /*Write a program to input total number of seconds and convert them into hours, minutes, and seconds.*/
 #include<stdio.h>
-void main()
+int main()
 {
 
     int total_sec,hr,min,sec;

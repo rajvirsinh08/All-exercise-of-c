@@ -9,8 +9,8 @@ void main()
     res = fact(n);
     printf("factorial : %d",res);
 }
-
 int fact(int n)
+
 {
     int f;
     f= 1;
